@@ -1,12 +1,19 @@
 # **Hi there 👋 I'm Ming-Kai (Kyle) Hung**  
 
 ## **🚀 Short Intro**  
-🔹 **AI & Autonomous AI Agents Researcher**  
-🔹 **Software Engineer** (Python, HTML, CSS, JavaScript, AI Integration)  
-🔹 **Data Mining Analyst** (Python, Excel, SQL) | *Google Data Analytics Certified*  
-🔹 **Passionate about Autonomous AI Agents Design**  
-🔹 **HR Specialist** | *aPHRi Certified, HR Friday Online Newcomers Group Certified*  
-🔹 **Camp Counselor Enthusiast** *(AIESEC COol Conference 2024 & 2025, TAHRD Overnight Camp 2025, Now The New U Orientation Camp 2024, TAHRD Winter Camp 2024)*  
+🤖 AI & Autonomous AI Agents Researcher
+
+🖥️ Software Engineer (Python, HTML, CSS, JavaScript, AI Integration)
+
+📊 Data Mining Analyst (Python, Excel, SQL) | Google Data Analytics Certified
+
+💡 Passionate about Autonomous AI Agents Design
+
+👥 HR Specialist | aPHRi Certified, HR Friday Online Newcomers Group Certified
+
+🏕️ Camp Counselor Enthusiast (AIESEC COol Conference 2024 & 2025, TAHRD Overnight Camp 2025, Now The New U Orientation Camp 2024, TAHRD Winter Camp 2024)
+
+
 
 ## **💡 About Me**  
 I am a student at **National Taiwan Normal University (NTNU)**, majoring in **Technology Application and Human Resource Development**. My academic background has given me a strong foundation in both **technology and HR**, enabling me to integrate **data-driven decision-making** with **people-centric solutions**.  

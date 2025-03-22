@@ -44,10 +44,10 @@ I'm always open to discussions and collaborations on:
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=KyleHung7&show_icons=true&theme=onedark" />
+      <img src="https://github-readme-stats.vercel.app/api?username=KyleHung7&show_icons=true&theme=dracula" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyleHung7&layout=compact&theme=onedark" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyleHung7&layout=compact&theme=dracula" />
     </td>
   </tr>
 </table>

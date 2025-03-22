@@ -27,8 +27,9 @@ I have experience in **developing AI Agents, web applications, and data-driven i
 🎭 **Event & Camp Organization** – Active in leading and organizing camps & leadership programs  
 
 ## 📌 Pinned Repositories  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=your-repo-name&theme=light)](https://github.com/KyleHung7/data-structure)  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=another-repo&theme=light)](https://github.com/KyleHung7/programming-language)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KyleHung7&repo=data-structure&theme=tokyonight)](https://github.com/KyleHung7/data-structure)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KyleHung7&repo=programming-language&theme=tokyonight)](https://github.com/KyleHung7/programming-language)  
+
 
 ## **🤝 Let's Connect!**  
 I'm always open to discussions and collaborations on:  
@@ -38,19 +39,20 @@ I'm always open to discussions and collaborations on:
 
 📩 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/kylehung) | [Email](mailto:kyle973881@gmail.com)  
 
-![Kyle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KyleHung7&show_icons=true&theme=tokyonight)  
 
+## **📈 My GitHub Stats**  
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=KyleHung7&show_icons=true&theme=light" />
+      <img src="https://github-readme-stats.vercel.app/api?username=KyleHung7&show_icons=true&theme=tokyonight" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyleHung7&layout=compact&theme=light" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyleHung7&layout=compact&theme=tokyonight" />
     </td>
   </tr>
 </table>
 
+## **🛠️ Tech Stack** 
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?&style=flat-square&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?&style=flat-square&logo=vite&logoColor=white)

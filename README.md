@@ -40,6 +40,17 @@ I'm always open to discussions and collaborations on:
 
 ![Kyle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KyleHung7&show_icons=true&theme=tokyonight)  
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=KyleHung7&show_icons=true&theme=light" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyleHung7&layout=compact&theme=light" />
+    </td>
+  </tr>
+</table>
+
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?&style=flat-square&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?&style=flat-square&logo=vite&logoColor=white)

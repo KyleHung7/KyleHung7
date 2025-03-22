@@ -5,11 +5,11 @@
 
 🖥️ Software Engineer (Python, HTML, CSS, JavaScript, AI Integration)
 
-📊 Data Mining Analyst (Python, Excel, SQL) | Google Data Analytics Certified
+📊 Data Mining Analyst (Python, Excel, SQL) | *Google Data Analytics Certified*
 
 💡 Passionate about Autonomous AI Agents Design
 
-👥 HR Specialist | aPHRi Certified, HR Friday Online Newcomers Group Certified
+👥 HR Specialist | *aPHRi Certified, HR Friday Online Newcomers Group Certified*
 
 🏕️ Camp Counselor Enthusiast (AIESEC COol Conference 2024 & 2025, TAHRD Overnight Camp 2025, Now The New U Orientation Camp 2024, TAHRD Winter Camp 2024)
 
@@ -26,6 +26,10 @@ I have experience in **developing AI Agents, web applications, and data-driven i
 🌍 **HR & Leadership** – Experience in talent development, counseling, and training program design  
 🎭 **Event & Camp Organization** – Active in leading and organizing camps & leadership programs  
 
+## 📌 Pinned Repositories  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=your-repo-name&theme=light)](https://github.com/KyleHung7/data-structure)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=another-repo&theme=light)](https://github.com/KyleHung7/programming-language)
+
 ## **🤝 Let's Connect!**  
 I'm always open to discussions and collaborations on:  
 🚀 **Autonomous AI Agents Systems**  
@@ -35,5 +39,12 @@ I'm always open to discussions and collaborations on:
 📩 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/kylehung) | [Email](mailto:kyle973881@gmail.com)  
 
 ![Kyle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KyleHung7&show_icons=true&theme=tokyonight)  
+
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?&style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?&style=flat-square&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black)
 
 

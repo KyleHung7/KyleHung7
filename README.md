@@ -27,7 +27,7 @@ I have experience in **developing AI Agents, web applications, and data-driven i
 🎭 **Event & Camp Organization** – Active in leading and organizing camps & leadership programs  
 
 ## 📌 Pinned Repositories  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KyleHung7&repo=data-structure&theme=light)](https://github.com/KyleHung7/data-structure)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KyleHung7&repo=programming-language&theme=light)](https://github.com/KyleHung7/programming-language) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KyleHung7&repo=data-structure&theme=light)](https://github.com/KyleHung7/data-structure&v=2)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KyleHung7&repo=programming-language&theme=light)](https://github.com/KyleHung7/programming-language&v=2) 
  
 
 

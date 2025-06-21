@@ -61,3 +61,18 @@ I'm always open to discussions and collaborations on:
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black)
 
 
+---
+
+## 🐍 Here's a snake eating up my contributions!
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=KyleHung7&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
+</picture>
+
+

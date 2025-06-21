@@ -65,11 +65,7 @@ I'm always open to discussions and collaborations on:
 
 ## 🐍 Here's a snake eating up my contributions!
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![](https://raw.githubusercontent.com/KyleHung7/KyleHung7/output/snake.svg)
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=KyleHung7&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>

@@ -69,10 +69,9 @@ I'm always open to discussions and collaborations on:
   <img src="https://komarev.com/ghpvc/?username=KyleHung7&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
+<!-- 注意：這裡的路徑已經被修正為絕對路徑 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="github-snake" src="dist/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KyleHung7/KyleHung7/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KyleHung7/KyleHung7/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/KyleHung7/KyleHung7/output/github-snake.svg" />
 </picture>
-
-

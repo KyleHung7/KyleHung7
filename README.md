@@ -1,74 +1,71 @@
-# **Hi there 👋 I'm Ming-Kai (Kyle) Hung**  
+<h1 align="center">Hi there 👋 I'm Ming-Kai (Kyle) Hung</h1>
 
-## **🚀 Short Intro**  
-🤖 AI & Autonomous AI Agents Researcher
+<h3 align="center">🤖 AI & Autonomous Agents Researcher | 🖥️ Software Engineer | 👥 HR Specialist</h3>
 
-🖥️ Software Engineer (Python, HTML, CSS, JavaScript, AI Integration)
-
-📊 Data Mining Analyst (Python, Excel, SQL) | *Google Data Analytics Certified*
-
-💡 Passionate about Autonomous AI Agents Design
-
-👥 HR Specialist | *aPHRi Certified, HR Friday Online Newcomers Group Certified*
-
-🏕️ Camp Counselor Enthusiast (AIESEC COol Conference 2024 & 2025, TAHRD Overnight Camp 2025, Now The New U Orientation Camp 2024, TAHRD Winter Camp 2024)
-
-
-
-## **💡 About Me**  
-I am a student at **National Taiwan Normal University (NTNU)**, majoring in **Technology Application and Human Resource Development**. My academic background has given me a strong foundation in both **technology and HR**, enabling me to integrate **data-driven decision-making** with **people-centric solutions**.  
-
-I have experience in **developing AI Agents, web applications, and data-driven insights**, leveraging technology to enhance efficiency and innovation. Additionally, my knowledge of **HR principles** allows me to foster positive team environments and design effective training programs. As a proactive learner, I am always exploring **new technologies, AI systems, and HR strategies**, refining my analytical thinking through diverse experiences.  
-
-## **🧠 Research & Experience**  
-💻 **AI & Autonomous AI Agent Development** – Researching and building AI-driven systems for automation  
-📊 **Data Mining & Analysis** – Extracting insights and optimizing decision-making processes  
-🌍 **HR & Leadership** – Experience in talent development, counseling, and training program design  
-🎭 **Event & Camp Organization** – Active in leading and organizing camps & leadership programs  
-
-## 📌 Pinned Repositories  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KyleHung7&repo=HealthLLM&theme=light)](https://github.com/KyleHung7/HealthLLM) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KyleHung7&repo=data-structure&theme=light)](https://github.com/KyleHung7/data-structure) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KyleHung7&repo=programming-language&theme=light)](https://github.com/KyleHung7/programming-language)
- 
-
-
-## **🤝 Let's Connect!**  
-I'm always open to discussions and collaborations on:  
-🚀 **Autonomous AI Agents Systems**  
-📊 **Data-Driven Decision-Making**  
-🤖 **AI Applications in Daily Life**  
-
-📩 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/kylehung) | [Email](mailto:kyle973881@gmail.com)  
-
-
-## **📈 My GitHub Stats**  
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=KyleHung7&show_icons=true&theme=tokyonight" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyleHung7&layout=compact&theme=tokyonight" />
-    </td>
-  </tr>
-</table>
-
-## **🛠️ Tech Stack** 
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?&style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?&style=flat-square&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black)
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/kylehung" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:kyle973881@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ---
 
-## 🐍 Here's a snake eating up my contributions!
+## 💡 About Me
+I am a student at **National Taiwan Normal University (NTNU)**, majoring in **Technology Application and Human Resource Development**. I thrive at the intersection of **data-driven decision-making** and **people-centric solutions**. 
 
-![](https://raw.githubusercontent.com/KyleHung7/KyleHung7/output/snake.svg)
+Currently, I'm deeply focused on building **Autonomous AI Agents** (including recent work developing an AI agent for a hiking community) and exploring **Machine Learning, Data Science, and C/C++**. My HR background equips me to design systems that truly understand and augment human potential. I'm also actively preparing for graduate studies in the United States to further my research in AI.
+
+* 🔭 **Currently working on:** Autonomous AI Agents, `HealthLLM` (AI blood pressure/sugar analysis system), and interactive particle systems.
+* 🌱 **Currently learning:** Advanced Machine Learning, Quantum Computing, and Stock Market Technical Analysis.
+* 👯 **Looking to collaborate on:** AI applications, Data Mining, and Web Development.
+* ⚡ **Fun fact:** When I'm not coding, you'll probably find me hiking, organizing camp leadership programs, or analyzing Human Design charts (I'm a Projector—meaning I naturally love guiding and optimizing systems!).
+
+## 🛠️ Tech Stack & Tools
+
+**Languages:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FCHttp--00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Web & Frameworks:**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Data & AI:**
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
+## 📌 Pinned Repositories
+<p align="center">
+  <a href="https://github.com/KyleHung7/HealthLLM">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KyleHung7&repo=HealthLLM&theme=tokyonight" alt="HealthLLM" />
+  </a>
+  <a href="https://github.com/KyleHung7/data-structure">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KyleHung7&repo=data-structure&theme=tokyonight" alt="data-structure" />
+  </a>
+  <a href="https://github.com/KyleHung7/programming-language">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KyleHung7&repo=programming-language&theme=tokyonight" alt="programming-language" />
+  </a>
+</p>
+
+## 📈 GitHub Activity & Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KyleHung7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Kyle's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyleHung7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</p>
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KyleHung7/KyleHung7/output/snake.svg" alt="GitHub Contribution Snake" />
+</p>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=KyleHung7&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
-
-

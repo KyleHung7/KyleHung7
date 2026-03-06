@@ -109,10 +109,15 @@ I'm always open to discussions and collaborations on:
 ## **🛠️ Tech Stack** 
 
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)
+
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?&style=flat-square&logo=react&logoColor=black)
+
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?&style=flat-square&logo=vite&logoColor=white)
+
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
+
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black)
 
 

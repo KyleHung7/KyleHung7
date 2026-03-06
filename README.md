@@ -35,7 +35,7 @@ I have experience in **developing AI Agents, web applications, and data-driven i
 
 ## 📌 Pinned Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KyleHung7&repo=HealthLLM&theme=light)](https://github.com/KyleHung7/HealthLLM) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KyleHung7&repo=data-structure&theme=light)](https://github.com/KyleHung7/data-structure) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KyleHung7&repo=programming-language&theme=light)](https://github.com/KyleHung7/programming-language)
+[![ReadMe Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=KyleHung7&repo=HealthLLM&theme=light)](https://github.com/KyleHung7/HealthLLM) [![ReadMe Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=KyleHung7&repo=data-structure&theme=light)](https://github.com/KyleHung7/data-structure) [![ReadMe Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=KyleHung7&repo=programming-language&theme=light)](https://github.com/KyleHung7/programming-language)
 
 
 
@@ -55,14 +55,13 @@ I'm always open to discussions and collaborations on:
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=KyleHung7&show_icons=true&theme=tokyonight" />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=KyleHung7&show_icons=true&theme=tokyonight" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyleHung7&layout=compact&theme=tokyonight" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KyleHung7&layout=compact&theme=tokyonight" />
     </td>
   </tr>
 </table>
-
 
 
 ## **🛠️ Tech Stack**
